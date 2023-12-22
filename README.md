@@ -24,13 +24,12 @@ Make sure you have the following software installed on your machine:
 
 
 ### Screenshots
-
-  
-  ![Screenshot 1](../assets/Screenshot1.png)
-  ![Screenshot 2](../assets/Screenshot2.png)
-  ![Screenshot 1](../assets/Screenshot1.png)
-  ![Screenshot 2](../assets/Screenshot2.png)
-
+<div style="display:flex; justify-content: space-around; width:100%">
+  <img src="assets/Screenshot1.png" alt="App Screenshot" width="200"/>
+  <img src="assets/Screenshot2.png" alt="App Screenshot" width="200"/>
+  <img src="assets/Screenshot3.png" alt="App Screenshot" width="200"/>
+  <img src="assets/Screenshot4.png" alt="App Screenshot" width="200"/>
+</div>
 
 ### Installing
 
